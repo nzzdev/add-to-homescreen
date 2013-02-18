@@ -1,0 +1,10 @@
+{
+    "type": "library",
+    "name": "nzz/add-to-homescreen",
+    "description": "The script places a floating balloon to your mobile website inviting the user to add your app to the home screen.",
+    "autoload": {
+        "psr-0": {
+            "": ""
+        }
+    }
+}
